@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rusha99
+- 👋 Hi, I’m @Rusha
 - 👀 I’m interested in finding a talented pool of software developers residing in the United States. 
 - 🌱 I’m currently learning technical recruitment and I am Technical Recruiter at Rave Business Systems 
 - 💞️ I’m looking to collaborate on genuine talent 
